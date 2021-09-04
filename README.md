@@ -1,4 +1,6 @@
 # hip-fellow
-A zsh theme
+A zsh theme for oh-my-zsh
 
-I'm not even using zsh at the moment lol
+![hip-fellow screenshot](theme_demo.png)
+
+The above screenshot uses the XTerm palette in Gnome Terminal.
